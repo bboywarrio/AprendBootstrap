@@ -1,0 +1,65 @@
+body {
+    background: #ccc;
+}
+#title, .subtitle, .post_title{
+    color: rgba(10, 8, 105, 0.671);
+}
+.post_title{
+    
+    font-size: 26px;
+    font-style: italic;
+    text-align: center;
+    border-style: groove;
+}
+
+.text_test{
+    font-style: italic ;
+    font-size: 22px;
+    text-align: center;
+
+}
+.post {
+    background: #fff;
+    padding: 10px;
+    border: 3px solid black;
+    margin: 10px;
+
+
+}
+.navbar {
+    background-color: rgb(123, 149, 170);
+}
+.html-bootstrap{
+    background-color: rgb(135, 228, 166);
+
+}
+.margin2{
+padding-top: 10px;
+padding-bottom: 45px;
+}
+.topicos{
+    background-color: rgb(243, 243, 243);
+    
+}
+.informa{
+    font-style: normal ;
+    font-size: 30px;
+    text-align: center;
+    text-decoration-line: none;
+    color: rgb(39, 39, 39);
+ 
+}
+.colorfooter{
+    background-color: rgb(31, 34, 36);
+    padding-top: 25px;
+    padding-bottom: 25px;
+    font-style: normal ;
+    font-size: 17px;
+    text-align: center;
+    
+    
+}
+.link2{
+    text-decoration-line: none;
+    color: cyan;
+}
